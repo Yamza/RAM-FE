@@ -3,3 +3,6 @@
 
 # ignore default git files
 .git
+
+# ignore voxelmap configs
+.minecraft/mods/mamiyaotaru
